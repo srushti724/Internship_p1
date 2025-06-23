@@ -1,0 +1,12 @@
+#para1 div{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+   
+}
+#para1{
+     display: flex;
+    flex-direction: row;
+    justify-content: end;
+}  

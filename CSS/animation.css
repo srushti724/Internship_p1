@@ -1,0 +1,31 @@
+#container{
+    height: 400px;
+    width: 500px;
+    position: relative;
+    background-color: aquamarine;
+    color: bisque;
+    animation-name: ex;
+    animation-duration: 3s;
+    animation-iteration-count: 3;
+    animation-delay: 2s;
+    transform: rotate(60deg);
+
+}
+@keyframes ex{
+    0%
+    {
+        background-color: brown;
+        top: 0;
+        left: 10;
+        right: 15;
+    }
+    25%
+    {
+         background-color: rgb(46, 42, 165);
+        top: 20;
+        left: 15;
+        right: 20;
+
+    }
+
+}

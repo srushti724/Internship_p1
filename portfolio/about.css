@@ -1,0 +1,22 @@
+h1{
+    background-color:blanchedalmond;
+    color:black;
+    text-align: center;
+}
+*{
+    margin: 10px;
+    padding: 5px;
+}
+#para{
+    text-decoration: dotted;
+    text-align: center;
+    color: black;
+    background-color: beige;
+
+}
+#para1{
+    text-decoration: dashed;
+    text-align: center;
+    color:black;
+    background-color:beige;
+}
